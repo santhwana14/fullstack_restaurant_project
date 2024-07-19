@@ -1,7 +1,12 @@
 # restaurant-ordering-system
 
-Watch Youtube video for set up, run, and demo
+# frontend
+1. cd frontend
+2. npm install
+3. npm run serve
 
-https://www.youtube.com/watch?v=Yf8zB4dXp7I
+# backend
+1. cd backend
+2. npm install
+3. npm start
 
-Give a star if you like it!
